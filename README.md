@@ -15,7 +15,8 @@ A real-time computer vision-based virtual conga drum using hand gestures powered
 
 ## 🖥️ Demo
 
-![Demo Screenshot](screenshots/demo.png)  
+[image](https://github.com/user-attachments/assets/575982db-b34e-4f53-b783-3010d25aeff4)
+  
 *Live gesture recognition and zone-based drum hits*
 
 ---
